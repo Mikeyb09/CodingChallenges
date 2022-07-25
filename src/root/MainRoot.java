@@ -1,4 +1,6 @@
-package challenges;
+package root;
+
+import root.weekly_challenges.AnimalLegs;
 
 public class MainRoot {
 	

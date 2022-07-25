@@ -1,10 +1,10 @@
-package challenges;
+package root.weekly_challenges;
 
 public class AnimalLegs {
 	
 	private int total;
 	
-	AnimalLegs(){
+	public AnimalLegs(){
 		this.total = 0;
 	}
 	
